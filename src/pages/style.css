@@ -1,0 +1,97 @@
+.home-background {
+    background-image: url('/img/home_image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+
+#home  {
+    background-color: white;
+    color: black;
+    padding: 13px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+#badge{
+    background-color: white;
+    color: black;
+    padding: 7px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+  
+#contato{
+    background-color: white;
+    color: black;
+    padding: 13px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.game{
+    background-color: white;
+    color: black;
+    padding: 13px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+#sobre{
+    background-color: white;
+    color: black;
+    padding: 13px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+
+.ProfileContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .ProfileFormContainer {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .ProfileForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .InputField {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .SubmitButton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .ProfileInfoContainer {
+    margin-top: 20px;
+  }
+  
+
+  
